@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.12.7)  9 DEC 2024 20:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.12.7)  9 DEC 2024 21:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1727,6 +1727,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
+Overfull \hbox (1.13672pt too wide) in paragraph at lines 19--23
+[]\TU/BNazanin.ttf(0)/m/sl/12 روش‌های مبتنی بر هستی‌شناسی در خلاصه‌سازی متن از 
+پایگاه‌های دانش برای بهبود فرآیند خلاصه‌سازی[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1736,6 +1741,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
+Missing character: There is no ٔ (U+0654) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1745,19 +1752,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-Missing character: There is no ٔ (U+0654) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ٔ (U+0654) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
 File: encoder_decoder.png Graphic file (type bmp)
 <encoder_decoder.png>
 
-Overfull \hbox (25.54077pt too wide) in paragraph at lines 69--70
+Overfull \hbox (25.54077pt too wide) in paragraph at lines 67--68
  [][][][][] 
  []
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 74.
+(Font)              scaled to size 13.13995pt on input line 72.
+
+Overfull \hbox (3.99449pt too wide) in paragraph at lines 61--74
+[]\TU/BNazanin.ttf(0)/m/sl/12 وابستگی‌های طولانی‌مدت با چالش‌هایی مواجه هستند. 
+برای غلبه بر این محدودیت‌ها، مدل‌های ترنسفورمر[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1805,7 +1814,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: TbertSum_embedding.png Graphic file (type bmp)
 <TbertSum_embedding.png>
 
-Overfull \hbox (41.75806pt too wide) in paragraph at lines 157--158
+Overfull \hbox (41.75806pt too wide) in paragraph at lines 155--156
  [][][][][] 
  []
 
@@ -1854,7 +1863,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: two-stage model.png Graphic file (type bmp)
 <two-stage model.png>
 
-Overfull \hbox (44.00685pt too wide) in paragraph at lines 232--233
+Overfull \hbox (44.00685pt too wide) in paragraph at lines 230--231
  [][][][][] 
  []
 
@@ -2023,7 +2032,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
-Overfull \hbox (2.7727pt too wide) in paragraph at lines 407--409
+Overfull \hbox (2.7727pt too wide) in paragraph at lines 405--407
 [][]\TU/BNazanin.ttf(0)/m/sl/12 این روش می‌تواند از مدل‌های خلاصه‌سازی مختلف از
  جمله شبکه‌ی عصبی بازگشتی و ترنسفورمرها[]
  []
@@ -2071,7 +2080,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [28]
 
-LaTeX Warning: Citation `ALOMARI' on page 29 undefined on input line 498.
+LaTeX Warning: Citation `ALOMARI' on page 29 undefined on input line 496.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2085,7 +2094,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Missing character: There is no φ ("3C6) in font cmmi12!
 Missing character: There is no ـ ("640) in font cmmi12!
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 522.
+(Font)              scaled to size 7.19998pt on input line 520.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2119,13 +2128,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: query-assited.png Graphic file (type bmp)
 <query-assited.png>
 
-Overfull \hbox (24.65897pt too wide) in paragraph at lines 593--594
+Overfull \hbox (24.65897pt too wide) in paragraph at lines 591--592
  [][][][][] 
  []
 
 
 LaTeX Warning: Reference `Cao2023AWESOMEGM' on page 33 undefined on input line 
-616.
+614.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2141,7 +2150,7 @@ flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ​ (U+200B) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 
-Overfull \hbox (2.97575pt too wide) in paragraph at lines 623--624
+Overfull \hbox (2.97575pt too wide) in paragraph at lines 621--622
 [][]\TU/BNazanin.ttf(0)/m/sl/12 دنیل کینگ و همکارانش روشی به نام $\OML/cmm/m/it
 /12 PINOCCHIO$ \TU/BNazanin.ttf(0)/m/sl/12 برای بهبود انسجام سیستم‌های خلاصه‌سا
 زی[]
@@ -2535,10 +2544,10 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: F110773DC093C43A6AB26CF217ADD844;10767.
  ) 
 Here is how much of TeX's memory you used:
- 29681 strings out of 474878
- 606584 string characters out of 5762516
+ 29683 strings out of 474878
+ 606609 string characters out of 5762516
  1933627 words of memory out of 5000000
- 51060 multiletter control sequences out of 15000+600000
+ 51062 multiletter control sequences out of 15000+600000
  567278 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  104i,12n,110p,2406b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
