@@ -5,6 +5,13 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{noauthor_better_nodate}
+Better language models and their implications.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{chen2018fast}
 Chen, Yen-Chun and Bansal, Mohit.
 \newblock Fast abstractive summarization with reinforce-selected sentence
@@ -19,6 +26,14 @@ Chen, Yen-Chun and Bansal, Mohit.
 \bibitem{child2019generating}
 Child, Rewon, Gray, Scott, Radford, Alec, and Sutskever, Ilya.
 \newblock Generating long sequences with sparse transformers, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{dong2023surveylongtextmodeling}
+Dong, Zican, Tang, Tianyi, Li, Lunyi, and Zhao, Wayne~Xin.
+\newblock A survey on long text modeling with transformers, 2023.
 
 \end{LTRbibitems}
 
@@ -64,10 +79,29 @@ Grathwohl, Will, Choi, Dami, Wu, Yuhuai, Roeder, Geoffrey, and Duvenaud,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Han2024ParameterEfficientFF}
+Han, Zeyu, Gao, Chao, Liu, Jinyang, Zhang, Jeff, and Zhang, Sai~Qian.
+\newblock Parameter-efficient fine-tuning for large models: A comprehensive
+  survey.
+\newblock {\em ArXiv}, abs/2403.14608, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{hochreiter1997long}
 Hochreiter, Sepp and Schmidhuber, J{\"u}rgen.
 \newblock Long short-term memory.
 \newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{hu2021loralowrankadaptationlarge}
+Hu, Edward~J., Shen, Yelong, Wallis, Phillip, Allen-Zhu, Zeyuan, Li, Yuanzhi,
+  Wang, Shean, Wang, Lu, and Chen, Weizhu.
+\newblock Lora: Low-rank adaptation of large language models, 2021.
 
 \end{LTRbibitems}
 
@@ -174,6 +208,14 @@ Lee, Chang-Shing, Jian, Zhi-Wei, and Huang, Lin-Kai.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{lester2021powerscaleparameterefficientprompt}
+Lester, Brian, Al-Rfou, Rami, and Constant, Noah.
+\newblock The power of scale for parameter-efficient prompt tuning, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{lewis-etal-2020-bart}
 Lewis, Mike, Liu, Yinhan, Goyal, Naman, Ghazvininejad, Marjan, Mohamed,
   Abdelrahman, Levy, Omer, Stoyanov, Veselin, and Zettlemoyer, Luke.
@@ -182,6 +224,29 @@ Lewis, Mike, Liu, Yinhan, Goyal, Naman, Ghazvininejad, Marjan, Mohamed,
 \newblock In {\em Proceedings of the 58th Annual Meeting of the Association for
   Computational Linguistics}, pages 7871--7880, Online, July 2020. Association
   for Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Li2021PretrainedLM}
+Li, Junyi, Tang, Tianyi, Zhao, Wayne~Xin, and rong Wen, Ji.
+\newblock Pretrained language models for text generation: A survey.
+\newblock {\em ArXiv}, abs/2105.10311, 2021.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{li-etal-2024-improving-faithfulness}
+Li, Taiji, Li, Zhi, and Zhang, Yin.
+\newblock Improving faithfulness of large language models in summarization via
+  sliding generation and self-consistency.
+\newblock In Calzolari, Nicoletta, Kan, Min-Yen, Hoste, Veronique, Lenci,
+  Alessandro, Sakti, Sakriani, and Xue, Nianwen,  editors, {\em Proceedings of
+  the 2024 Joint International Conference on Computational Linguistics,
+  Language Resources and Evaluation (LREC-COLING 2024)}, pages 8804--8817,
+  Torino, Italia, May 2024. ELRA and ICCL.
 
 \end{LTRbibitems}
 
@@ -397,6 +462,16 @@ Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{xia2024hallucinationdiversityawareactivelearning}
+Xia, Yu, Liu, Xu, Yu, Tong, Kim, Sungchul, Rossi, Ryan~A., Rao, Anup, Mai,
+  Tung, and Li, Shuai.
+\newblock Hallucination diversity-aware active learning for text summarization,
+  2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{xiao-wang-2021-hallucination}
 Xiao, Yijun and Wang, William~Yang.
 \newblock On hallucination and predictive uncertainty in conditional language
@@ -469,6 +544,17 @@ Zhang, Tianyi, Ladhak, Faisal, Durmus, Esin, Liang, Percy, McKeown, Kathleen,
 \newblock Benchmarking large language models for news summarization.
 \newblock {\em Transactions of the Association for Computational Linguistics},
   12:39--57, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhang2024finercut}
+Zhang, Yang, Li, Yawei, Wang, Xinpeng, Shen, Qianli, Plank, Barbara, Bischl,
+  Bernd, Rezaei, Mina, and Kawaguchi, Kenji.
+\newblock Finercut: Finer-grained interpretable layer pruning for large
+  language models.
+\newblock {\em arXiv e-prints}, pages arXiv--2405, 2024.
 
 \end{LTRbibitems}
 
