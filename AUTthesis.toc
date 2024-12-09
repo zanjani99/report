@@ -1,0 +1,45 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست تصاویر}{ج}{section*.3}%
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {section}{\numberline {1-1}مقدمه}{1}{section.1.1}%
+\contentsline {section}{\numberline {1-2}چشم‌انداز نوشتار}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {2}معرفی مفاهیم}{2}{chapter.2}%
+\contentsline {section}{\numberline {2-1}خلاصه‌سازی}{3}{section.2.1}%
+\contentsline {section}{\numberline {2-2}شبکه عصبی}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}ترنسفورمر}{4}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2} مدل‌های زبانی از پیش آموزش دیده و مدل‌های بزرگ زبانی}{4}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2-2-3}روش های فشرده‌سازی مدل‌های بزرگ زبانی}{5}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2-2-4}تقطیر دانش}{5}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2-2-5}کوانتایزاسیون}{6}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2-2-6} هرس کردن}{6}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2-2-7} تنظیم دقیق بهینه‌شده پارامترها برای مدل‌های زبانی بزرگ}{6}{subsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2-2-7-1}لورا}{7}{subsubsection.2.2.7.1}%
+\contentsline {subsubsection}{\numberline {2-2-7-2}تنظیم دقیق پرامپت}{7}{subsubsection.2.2.7.2}%
+\contentsline {section}{\numberline {2-3}توهم}{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}مرور تاریخچه}{9}{chapter.3}%
+\contentsline {section}{\numberline {3-1}روش مبتنی بر درخت}{10}{section.3.1}%
+\contentsline {section}{\numberline {3-2}روش مبتنی بر قالب}{10}{section.3.2}%
+\contentsline {section}{\numberline {3-3}روش مبتنی بر هستان‌شناسی}{11}{section.3.3}%
+\contentsline {section}{\numberline {3-4}روش عبارت مقدمه و بدنه}{11}{section.3.4}%
+\contentsline {section}{\numberline {3-5}روش مبتنی بر گراف}{12}{section.3.5}%
+\contentsline {section}{\numberline {3-6}روش مبتنی بر قانون }{12}{section.3.6}%
+\contentsline {section}{\numberline {3-7}روش‌های مبتنی بر مدل کدگذار-کدگشا}{12}{section.3.7}%
+\contentsline {section}{\numberline {3-8}روش‌های مبتنی بر مدل ترنسفورمر‌}{14}{section.3.8}%
+\contentsline {subsection}{\numberline {3-8-1}ایده‌های ارائه شده بهبود خلاصه‌سازی متون طولانی }{22}{subsection.3.8.1}%
+\contentsline {section}{\numberline {3-9} یادگیری تقویتی برای حل چالش‌های مدل دنباله به دنباله عمیق}{27}{section.3.9}%
+\contentsline {section}{\numberline {3-10}یادگیری تقویتی برای ترکیب خلاصه‌های استخراجی و انتزاعی}{28}{section.3.10}%
+\contentsline {section}{\numberline {3-11}یادگیری تقویتی برای ایجاد معیارها و پاداش‌های جدید}{29}{section.3.11}%
+\contentsline {section}{\numberline {3-12} یادگیری تقویتی برای ایجاد خلاصه متناسب با نیاز کاربر}{30}{section.3.12}%
+\contentsline {section}{\numberline {3-13}توهم در مدل ‌های زبانی بزرگ}{34}{section.3.13}%
+\contentsline {section}{\numberline {3-14}هرس مدل های زبانی}{35}{section.3.14}%
+\contentsline {section}{\numberline {3-15}معیارهای ارزیابی خلاصه‌سازی خودکار}{37}{section.3.15}%
+\contentsline {section}{\numberline {3-16}محدودیت‌ها و پیشرفت‌ها}{38}{section.3.16}%
+\contentsline {chapter}{\numberline {4}روش‌ارائه شده}{39}{chapter.4}%
+\contentsline {chapter}{\numberline {5}نتایج}{40}{chapter.5}%
+\contentsline {chapter}{کتاب‌نامه}{41}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{48}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{51}{appendix*.6}%
+\contentsfinish 
