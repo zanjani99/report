@@ -28,23 +28,22 @@
 \contentsline {subsection}{\numberline {3-1-4}روش عبارت مقدمه و بدنه}{11}{subsection.3.1.4}%
 \contentsline {subsection}{\numberline {3-1-5}روش مبتنی بر گراف}{11}{subsection.3.1.5}%
 \contentsline {subsection}{\numberline {3-1-6}روش مبتنی بر قانون }{12}{subsection.3.1.6}%
-\contentsline {section}{\numberline {3-2}روش‌های مبتنی بر مدل کدگذار-کدگشا}{12}{section.3.2}%
-\contentsline {section}{\numberline {3-3}روش‌های مبتنی بر مدل ترنسفورمر‌}{14}{section.3.3}%
-\contentsline {subsection}{\numberline {3-3-1}ایده‌های ارائه شده بهبود خلاصه‌سازی متون طولانی }{22}{subsection.3.3.1}%
-\contentsline {section}{\numberline {3-4}روش‌های مبتنی بر یادگیری تقویتی}{27}{section.3.4}%
-\contentsline {subsection}{\numberline {3-4-1} یادگیری تقویتی برای حل چالش‌های مدل دنباله به دنباله عمیق}{27}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3-4-2}یادگیری تقویتی برای ترکیب خلاصه‌های استخراجی و انتزاعی}{29}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3-4-3}یادگیری تقویتی برای ایجاد معیارها و پاداش‌های جدید}{29}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3-4-4} یادگیری تقویتی برای ایجاد خلاصه متناسب با نیاز کاربر}{30}{subsection.3.4.4}%
-\contentsline {section}{\numberline {3-5}روش های مبتنی بر مدل‌های زبانی بزرگ و چالش‌ها}{34}{section.3.5}%
-\contentsline {subsection}{\numberline {3-5-1}توهم در مدل ‌های زبانی بزرگ}{34}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3-5-2}هرس مدل های زبانی}{35}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3-5-3}توهم در خلاصه‌سازی}{38}{subsection.3.5.3}%
-\contentsline {section}{\numberline {3-6}معیارهای ارزیابی خلاصه‌سازی خودکار}{39}{section.3.6}%
-\contentsline {subsection}{\numberline {3-6-1}محدودیت‌ها و پیشرفت‌ها}{40}{subsection.3.6.1}%
-\contentsline {chapter}{\numberline {4}روش‌ارائه شده}{42}{chapter.4}%
-\contentsline {chapter}{\numberline {5}نتایج}{43}{chapter.5}%
-\contentsline {chapter}{کتاب‌نامه}{44}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{52}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{55}{appendix*.6}%
+\contentsline {section}{\numberline {3-2}روش‌های مبتنی بر مدل ترنسفورمر‌}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}ایده‌های ارائه شده بهبود خلاصه‌سازی متون طولانی }{20}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3-3}روش‌های مبتنی بر یادگیری تقویتی}{25}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1} یادگیری تقویتی برای حل چالش‌های مدل دنباله به دنباله عمیق}{25}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3-3-2}یادگیری تقویتی برای ترکیب خلاصه‌های استخراجی و انتزاعی}{26}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3-3-3}یادگیری تقویتی برای ایجاد معیارها و پاداش‌های جدید}{27}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3-3-4} یادگیری تقویتی برای ایجاد خلاصه متناسب با نیاز کاربر}{28}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3-4}روش های مبتنی بر مدل‌های زبانی بزرگ و چالش‌ها}{31}{section.3.4}%
+\contentsline {subsection}{\numberline {3-4-1}هزیان‌گویی در مدل ‌های زبانی بزرگ}{32}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3-4-2}هرس مدل های زبانی}{33}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3-4-3}هزیان‌گویی در خلاصه‌سازی}{35}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3-5}معیارهای ارزیابی خلاصه‌سازی خودکار}{37}{section.3.5}%
+\contentsline {subsection}{\numberline {3-5-1}محدودیت‌ها و پیشرفت‌ها}{40}{subsection.3.5.1}%
+\contentsline {chapter}{\numberline {4}روش‌ارائه شده}{41}{chapter.4}%
+\contentsline {chapter}{\numberline {5}نتایج}{42}{chapter.5}%
+\contentsline {chapter}{کتاب‌نامه}{43}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{51}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{54}{appendix*.6}%
 \contentsfinish 

@@ -48,15 +48,6 @@ El-Kassas, Wafaa~S., Salama, Cherif~R., Rafea, Ahmed~A., and Mohamed, Hoda~K.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{elman1990finding}
-Elman, Jeffrey~L.
-\newblock Finding structure in time.
-\newblock {\em Cognitive science}, 14(2):179--211, 1990.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{fan-etal-2018-controllable}
 Fan, Angela, Grangier, David, and Auli, Michael.
 \newblock Controllable abstractive summarization.
@@ -89,29 +80,10 @@ Han, Zeyu, Gao, Chao, Liu, Jinyang, Zhang, Jeff, and Zhang, Sai~Qian.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{hochreiter1997long}
-Hochreiter, Sepp and Schmidhuber, J{\"u}rgen.
-\newblock Long short-term memory.
-\newblock {\em Neural computation}, 9(8):1735--1780, 1997.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{hu2021loralowrankadaptationlarge}
 Hu, Edward~J., Shen, Yelong, Wallis, Phillip, Allen-Zhu, Zeyuan, Li, Yuanzhi,
   Wang, Shean, Wang, Lu, and Chen, Weizhu.
 \newblock Lora: Low-rank adaptation of large language models, 2021.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{RL_survey}
-Idris, Norisma, Alomari, Ayham, Sabri, Aznul Qalid~Md, and Alsmadi, Izzat.
-\newblock Deep reinforcement and transfer learning for abstractive text
-  summarization: A review.
-\newblock {\em Computer Speech and Language}, 71:101276, 2022.
 
 \end{LTRbibitems}
 
@@ -198,6 +170,31 @@ Kryscinski, Wojciech, Paulus, Romain, Xiong, Caiming, and Socher, Richard.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{laban_summedits_2023}
+Laban, Philippe, Kryscinski, Wojciech, Agarwal, Divyansh, Fabbri, Alexander,
+  Xiong, Caiming, Joty, Shafiq, and Wu, Chien-Sheng.
+\newblock {SummEdits}: Measuring {LLM} ability at factual reasoning through the
+  lens of summarization.
+\newblock In Bouamor, Houda, Pino, Juan, and Bali, Kalika,  editors, {\em
+  Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing}, pages 9662--9676. Association for Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{laban_span_2022}
+Laban, Philippe, Schnabel, Tobias, Bennett, Paul~N., and Hearst, Marti~A.
+\newblock {\textless}span
+  style="font-variant:small-caps;"{\textgreater}{SummaC}{\textless}/span{\textgreater}
+  : Re-visiting {NLI}-based models for inconsistency detection in
+  summarization.
+\newblock 10:163--177.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{lee2005fuzzy}
 Lee, Chang-Shing, Jian, Zhi-Wei, and Huang, Lin-Kai.
 \newblock A fuzzy ontology and its application to news summarization.
@@ -247,19 +244,6 @@ Li, Taiji, Li, Zhi, and Zhang, Yin.
   the 2024 Joint International Conference on Computational Linguistics,
   Language Resources and Evaluation (LREC-COLING 2024)}, pages 8804--8817,
   Torino, Italia, May 2024. ELRA and ICCL.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{variational}
-Liang, Yunlong, Meng, Fandong, Zhou, Chulun, Xu, Jinan, Chen, Yufeng, Su,
-  Jinsong, and Zhou, Jie.
-\newblock A variational hierarchical model for neural cross-lingual
-  summarization.
-\newblock In {\em Proceedings of the 60th Annual Meeting of the Association for
-  Computational Linguistics (Volume 1: Long Papers)}, pages 2088--2099, Dublin,
-  Ireland, May 2022. Association for Computational Linguistics.
 
 \end{LTRbibitems}
 
@@ -349,6 +333,19 @@ Moratanch, N. and Chitrakala, S.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{nan_entity-level_2021}
+Nan, Feng, Nallapati, Ramesh, Wang, Zhiguo, Nogueira~dos Santos, Cicero, Zhu,
+  Henghui, Zhang, Dejiao, {McKeown}, Kathleen, and Xiang, Bing.
+\newblock Entity-level factual consistency of abstractive text summarization.
+\newblock In Merlo, Paola, Tiedemann, Jorg, and Tsarfaty, Reut,  editors, {\em
+  Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume}, pages 2727--2733. Association
+  for Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{andhale2016overview}
 Narendra, Andhale and Bewoor, Laxmi~A.
 \newblock An overview of text summarization techniques.
@@ -430,6 +427,20 @@ Sherborne, Tom and Lapata, Mirella.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{son_harim_2022}
+Son, Seonil~(Simon), Park, Junsoo, Hwang, Jeong-in, Lee, Junghwa, Noh,
+  Hyungjong, and Lee, Yeonsoo.
+\newblock {HaRiM}⁺: Evaluating summary quality with hallucination risk.
+\newblock In He, Yulan, Ji, Heng, Li, Sujian, Liu, Yang, and Chang, Chua-Hui,
+  editors, {\em Proceedings of the 2nd Conference of the Asia-Pacific Chapter
+  of the Association for Computational Linguistics and the 12th International
+  Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
+  pages 895--924. Association for Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{PoBRL}
 Su, DiJia, Su, Difei, Mulvey, John~M., and Poor, H.Vincent.
 \newblock Optimizing multidocument summarization by blending reinforcement
@@ -495,10 +506,11 @@ Xiong, Wenhan, Gupta, Anchit, Toshniwal, Shubham, Mehdad, Yashar, and tau Yih,
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{yao2018dual}
-Yao, Kaichun, Zhang, Libo, Du, Dawei, Luo, Tiejian, Tao, Lili, and Wu, Yanjun.
-\newblock Dual encoding for abstractive text summarization.
-\newblock {\em IEEE transactions on cybernetics}, 50(3):985--996, 2018.
+\bibitem{Xu2024SoftPR}
+Xu, Zhaozhuo, Liu, Zirui, Chen, Beidi, Zhong, Shaochen, Tang, Yuxin, Wang, Jue,
+  Zhou, Kaixiong, Hu, Xia, and Shrivastava, Anshumali.
+\newblock Soft prompt recovers compressed llms, transferably.
+\newblock In {\em International Conference on Machine Learning}, 2024.
 
 \end{LTRbibitems}
 

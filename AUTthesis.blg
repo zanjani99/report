@@ -9,11 +9,11 @@ The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
-Repeated entry---line 524 of file references.bib
+Repeated entry---line 533 of file references.bib
  : @article{ELKASSAS2021113679
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 705 of file references.bib
+Repeated entry---line 714 of file references.bib
  : @inproceedings{maynez-etal-2020-faithfulness
  :                                             ,
 I'm skipping whatever remains of this entry
@@ -22,48 +22,53 @@ Warning--I didn't find a database entry for "ALOMARI"
 Warning--to sort, need author or key in noauthor_better_nodate
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty year in laban_summedits_2023
+Warning--empty journal in laban_span_2022
+Warning--empty year in laban_span_2022
 Warning--can't use both volume and number fields in liu2018generative
+Warning--empty year in nan_entity-level_2021
+Warning--empty year in son_harim_2022
 
 Done.
 You've used 53 entries,
             2546 wiz_defined-function locations,
-            942 strings with 17942 characters,
-and the built_in function-call counts, 26481 in all, are:
-= -- 2362
-> -- 1449
-< -- 25
-+ -- 568
-- -- 506
-* -- 1826
-:= -- 3871
-add.period$ -- 169
+            931 strings with 18547 characters,
+and the built_in function-call counts, 27446 in all, are:
+= -- 2418
+> -- 1559
+< -- 27
++ -- 606
+- -- 545
+* -- 1907
+:= -- 4005
+add.period$ -- 171
 call.type$ -- 53
-change.case$ -- 399
+change.case$ -- 413
 chr.to.int$ -- 0
-cite$ -- 55
-duplicate$ -- 887
-empty$ -- 1673
-format.name$ -- 506
-if$ -- 6331
+cite$ -- 60
+duplicate$ -- 916
+empty$ -- 1709
+format.name$ -- 545
+if$ -- 6575
 int.to.chr$ -- 0
 int.to.str$ -- 53
-missing$ -- 617
+missing$ -- 646
 newline$ -- 476
-num.names$ -- 118
-pop$ -- 451
+num.names$ -- 124
+pop$ -- 489
 preamble$ -- 1
-purify$ -- 342
+purify$ -- 356
 quote$ -- 0
-skip$ -- 729
+skip$ -- 752
 stack$ -- 0
-substring$ -- 1437
-swap$ -- 322
-text.length$ -- 25
+substring$ -- 1434
+swap$ -- 345
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 212
-warning$ -- 2
-while$ -- 201
+warning$ -- 7
+while$ -- 205
 width$ -- 55
-write$ -- 756
+write$ -- 751
 (There were 2 error messages)
