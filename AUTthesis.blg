@@ -30,45 +30,45 @@ Warning--empty year in nan_entity-level_2021
 Warning--empty year in son_harim_2022
 
 Done.
-You've used 53 entries,
+You've used 54 entries,
             2546 wiz_defined-function locations,
-            931 strings with 18547 characters,
-and the built_in function-call counts, 27446 in all, are:
-= -- 2418
-> -- 1559
+            936 strings with 18725 characters,
+and the built_in function-call counts, 27718 in all, are:
+= -- 2442
+> -- 1572
 < -- 27
-+ -- 606
-- -- 545
-* -- 1907
-:= -- 4005
-add.period$ -- 171
-call.type$ -- 53
-change.case$ -- 413
++ -- 611
+- -- 549
+* -- 1920
+:= -- 4051
+add.period$ -- 174
+call.type$ -- 54
+change.case$ -- 418
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 916
-empty$ -- 1709
-format.name$ -- 545
-if$ -- 6575
+cite$ -- 61
+duplicate$ -- 926
+empty$ -- 1726
+format.name$ -- 549
+if$ -- 6638
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 646
-newline$ -- 476
-num.names$ -- 124
-pop$ -- 489
+int.to.str$ -- 54
+missing$ -- 654
+newline$ -- 485
+num.names$ -- 126
+pop$ -- 492
 preamble$ -- 1
-purify$ -- 356
+purify$ -- 360
 quote$ -- 0
-skip$ -- 752
+skip$ -- 761
 stack$ -- 0
-substring$ -- 1434
-swap$ -- 345
+substring$ -- 1439
+swap$ -- 346
 text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 212
+type$ -- 216
 warning$ -- 7
-while$ -- 205
-width$ -- 55
-write$ -- 751
+while$ -- 207
+width$ -- 56
+write$ -- 765
 (There were 2 error messages)

@@ -12,6 +12,16 @@ Better language models and their implications.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Cao2023AWESOMEGM}
+Cao, Shuyang and Wang, Lu.
+\newblock Awesome: Gpu memory-constrained long document summarization using
+  memory mechanism and global salient content.
+\newblock {\em ArXiv}, abs/2305.14806, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{chen2018fast}
 Chen, Yen-Chun and Bansal, Mohit.
 \newblock Fast abstractive summarization with reinforce-selected sentence

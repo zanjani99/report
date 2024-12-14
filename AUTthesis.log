@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.12.7)  11 DEC 2024 13:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.12.7)  14 DEC 2024 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1727,11 +1727,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Overfull \hbox (1.13672pt too wide) in paragraph at lines 19--23
-[]\TU/BNazanin.ttf(0)/m/sl/12 روش‌های مبتنی بر هستی‌شناسی در خلاصه‌سازی متن از 
-پایگاه‌های دانش برای بهبود فرآیند خلاصه‌سازی[]
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1741,8 +1736,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-Missing character: There is no ٔ (U+0654) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1755,7 +1748,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: tbertsum_framework.png Graphic file (type bmp)
 <tbertsum_framework.png>
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 85.
+(Font)              scaled to size 13.13995pt on input line 92.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: TbertSum_embedding.png Graphic file (type bmp)
+<TbertSum_embedding.png>
+
+Overfull \hbox (41.75806pt too wide) in paragraph at lines 103--104
+ [][][][][] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1766,13 +1769,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-File: TbertSum_embedding.png Graphic file (type bmp)
-<TbertSum_embedding.png>
-
-Overfull \hbox (41.75806pt too wide) in paragraph at lines 96--97
- [][][][][] 
- []
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1791,34 +1787,6 @@ File: tbertsum_transformer.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[14]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[15]
-File: two-stage model.png Graphic file (type bmp)
-<two-stage model.png>
-
-Overfull \hbox (44.00685pt too wide) in paragraph at lines 171--172
- [][][][][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
 uage=dflt;mapping=tex-text;!
 Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
@@ -1830,6 +1798,15 @@ uage=dflt;mapping=tex-text;!
 File: bart2.png Graphic file (type bmp)
 <bart2.png>
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
@@ -1854,8 +1831,47 @@ Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lan
 uage=dflt;mapping=tex-text;!
 Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
 uage=dflt;mapping=tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
 Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
 uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+
+Overfull \hbox (14.80074pt too wide) in paragraph at lines 195--197
+[]\TU/BNazanin.ttf(0)/m/sl/12 با توجه به مشکلات مدل ترنسفورمر در پردازش متون طو
+لانی مانند پیچیدگی‌های محاسباتی و محدودیت‌های[]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1865,6 +1881,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1874,14 +1920,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [17]
-File: pegasus.png Graphic file (type bmp)
-<pegasus.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: Mdot.png Graphic file (type bmp)
-<Mdot.png>
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1891,34 +1937,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1928,46 +1946,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19]
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1977,12 +1955,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20]
-File: top_down.png Graphic file (type bmp)
-<top_down.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1992,10 +1964,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [21]
-Overfull \hbox (2.7727pt too wide) in paragraph at lines 346--348
-[][]\TU/BNazanin.ttf(0)/m/sl/12 این روش می‌تواند از مدل‌های خلاصه‌سازی مختلف از
- جمله شبکه‌ی عصبی بازگشتی و ترنسفورمرها[]
- []
+
+LaTeX Warning: Citation `ALOMARI' on page 22 undefined on input line 274.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2006,6 +1976,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
+Missing character: There is no φ ("3C6) in font cmmi12!
+Missing character: There is no ـ ("640) in font cmmi12!
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 298.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2015,9 +1989,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-File: pooling_attention.png Graphic file (type bmp)
-<pooling_attention.png>
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2027,6 +1998,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24]
+File: recall cureve.png Graphic file (type bmp)
+<recall cureve.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2036,6 +2010,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
+File: query-assited.png Graphic file (type bmp)
+<query-assited.png>
+
+Overfull \hbox (24.65897pt too wide) in paragraph at lines 369--370
+ [][][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2045,85 +2026,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-
-LaTeX Warning: Citation `ALOMARI' on page 27 undefined on input line 437.
-
-Missing character: There is no φ ("3C6) in font cmmi12!
-Missing character: There is no ـ ("640) in font cmmi12!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[27]
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 461.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[28]
-File: recall cureve.png Graphic file (type bmp)
-<recall cureve.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[29]
-File: query-assited.png Graphic file (type bmp)
-<query-assited.png>
-
-Overfull \hbox (24.65897pt too wide) in paragraph at lines 532--533
- [][][][][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Reference `Cao2023AWESOMEGM' on page 30 undefined on input line 
-555.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[30]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[31]
+Missing character: There is no L (U+004C) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no L (U+004C) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no M (U+004D) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ​ (U+200B) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ​ (U+200B) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 
-Overfull \hbox (2.97575pt too wide) in paragraph at lines 565--566
+Overfull \hbox (2.97575pt too wide) in paragraph at lines 400--401
 [][]\TU/BNazanin.ttf(0)/m/sl/12 دنیل کینگ و همکارانش روشی به نام $\OML/cmm/m/it
 /12 PINOCCHIO$ \TU/BNazanin.ttf(0)/m/sl/12 برای بهبود انسجام سیستم‌های خلاصه‌سا
 زی[]
@@ -2133,6 +2047,74 @@ Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ​ (U+200B) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28]
+Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+flt;script=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+Overfull \hbox (4.34766pt too wide) in paragraph at lines 441--442
+[]\TU/BNazanin.ttf(0)/m/sl/12 یکی از مطالعات برجسته در زمینه کاهش هزیان‌گویی در
+ مدل‌های زبانی بزرگ و بهبود کیفیت خلاصه‌سازی[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
+File: slimsum.png Graphic file (type bmp)
+<slimsum.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2151,9 +2133,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
-Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
+Overfull \hbox (6.45087pt too wide) in paragraph at lines 495--498
+[][]\TU/BNazanin.ttf(0)/m/sl/12 ریسک هزیان [][][][][][][][][][][][] به منظور ار
+زیابی ریسک هذیان در متن‌های تولیدشده توسط مدل‌های خلاصه‌سازی[]
+ []
+
+Missing character: There is no – (U+2013) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2164,69 +2149,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ٪ (U+066A) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
-
-Overfull \hbox (4.34766pt too wide) in paragraph at lines 601--602
-[]\TU/BNazanin.ttf(0)/m/sl/12 یکی از مطالعات برجسته در زمینه کاهش هزیان‌گویی در
- مدل‌های زبانی بزرگ و بهبود کیفیت خلاصه‌سازی[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[35]
-File: slimsum.png Graphic file (type bmp)
-<slimsum.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[36]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[37]
-Overfull \hbox (6.45087pt too wide) in paragraph at lines 655--658
-[][]\TU/BNazanin.ttf(0)/m/sl/12 ریسک هزیان [][][][][][][][][][][][] به منظور ار
-زیابی ریسک هذیان در متن‌های تولیدشده توسط مدل‌های خلاصه‌سازی[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[38]
-Missing character: There is no – (U+2013) in font [B Nazanin.ttf]/OT:language=d
-flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no – (U+2013) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no – (U+2013) in font [B Nazanin.ttf]/OT:language=d
@@ -2357,15 +2279,6 @@ Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no k (U+006B) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[39]
 Missing character: There is no S (U+0053) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no U (U+0055) in font [B Nazanin.ttf]/OT:language=d
@@ -2385,12 +2298,11 @@ flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no S (U+0053) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 
-Overfull \hbox (37.22397pt too wide) in paragraph at lines 693--694
+Overfull \hbox (37.22397pt too wide) in paragraph at lines 533--534
 []\TU/BNazanin.ttf(0)/m/sl/12 بیشتری فراهم می‌کند و معیار جدیدی برای توانایی اس
 تدلال واقعی مدل‌ها ارائه می‌دهد.$\OML/cmm/m/it/12 SUMMEDITS$[]
  []
 
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2399,7 +2311,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40]
+[35])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -2412,7 +2333,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41
+[37
 
 
 
@@ -2430,7 +2351,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42
+[38
 
 
 
@@ -2445,22 +2366,57 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 9.
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 63--68
+Underfull \hbox (badness 1688) in paragraph at lines 73--78
 [][]\TU/TimesNewRoman.ttf(0)/m/it/12 Grathwohl, Will, Choi, Dami, Wu, Yuhuai, R
 oeder, Geoffrey, and Duvenaud,[]
  []
 
-
-Underfull \hbox (badness 4454) in paragraph at lines 74--78
-[][]\TU/TimesNewRoman.ttf(0)/m/it/12 Han, Zeyu, Gao, Chao, Liu, Jinyang, Zhang,
- Jeff, and Zhang, Sai Qian.[]
- []
-
-[43
+[39
 
 
 
 ]
+Underfull \hbox (badness 4454) in paragraph at lines 84--88
+[][]\TU/TimesNewRoman.ttf(0)/m/it/12 Han, Zeyu, Gao, Chao, Liu, Jinyang, Zhang,
+ Jeff, and Zhang, Sai Qian.[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2470,6 +2426,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [44]
+Missing character: There is no ⁺ (U+207A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2487,7 +2445,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[46]
+[46])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2497,35 +2455,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [47]
-Missing character: There is no ⁺ (U+207A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[48]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[49])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[50]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
@@ -2553,7 +2482,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-[51
+[48
 
 
 ]
@@ -2581,7 +2510,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52]
+[49]
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
@@ -2595,7 +2524,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53]
+[50]
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
@@ -2633,7 +2562,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:language=d
 flt;script=arab;mapping=persian-tex-text;!
-[54
+[51
 
 
 
@@ -2667,7 +2596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[55]
+[52]
 Overfull \vbox (6.27711pt too high) has occurred while \output is active []
 
 
@@ -2683,7 +2612,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[56]) (./AUTthesis.aux (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
+[53]) (./AUTthesis.aux (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
 (./chapter5.aux) (./dicfa2en.aux) (./dicen2fa.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -2697,15 +2626,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 80E54DC893544F1E589E1D484AAFA481;10547.
+(rerunfilecheck)             Checksum: D5CEF608A5E1BF9EBFEE5A79C7EE24D4;10889.
  ) 
 Here is how much of TeX's memory you used:
- 29650 strings out of 474878
- 605734 string characters out of 5762516
- 1934627 words of memory out of 5000000
- 51032 multiletter control sequences out of 15000+600000
+ 29581 strings out of 474878
+ 604473 string characters out of 5762516
+ 1936627 words of memory out of 5000000
+ 50968 multiletter control sequences out of 15000+600000
  567278 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,12n,110p,2406b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,12n,110p,2406b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AUTthesis.pdf (66 pages).
+Output written on AUTthesis.pdf (63 pages).
